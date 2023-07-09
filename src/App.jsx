@@ -44,8 +44,8 @@ function App() {
     <>
       <BrowserRouter>
         <Navbar
-          title="TextCraft2"
-          aboutText="TextAbouts"
+          title="TextCraft"
+          aboutText="About us"
           mode={mode}
           toggleMode={toggleMode}
         />
